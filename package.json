@@ -1,0 +1,30 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "[![License: MIT](https://img.shields.io/github/license/Parisca99/Team-Profile-Generator?style=plastic)](https://opensource.org/licenses/MIT)",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Parisca99/Team-Profile-Generator.git"
+    },
+    "author": "Parisca99",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^27.4.7"
+    },
+    "bugs": {
+        "url": "https://github.com/Parisca99/Team-Profile-Generator/issues"
+    },
+    "homepage": "https://github.com/Parisca99/Team-Profile-Generator#readme",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "fs": "0.0.1-security",
+        "inquirer": "^8.1.0"
+    }
+}
